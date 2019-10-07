@@ -30,8 +30,7 @@ DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
 
 
-ALLOWED_HOSTS = ['peaceful-atoll-88029.herokuapp.com', '127.0.0.1']
-ALLOWED_HOSTS = ['fathomless-scrubland-30645.herokuapp.com', '127.0.0.1']
+# ALLOWED_HOSTS = ['peaceful-atoll-88029.herokuapp.com', '127.0.0.1']]
 
 # Application definition
 
